@@ -29,6 +29,6 @@ Be ready to browse [Bootstrap’s documentation](https://getbootstrap.com/docs/4
 
 
 #
-**Design Spec:**
+**Design Spec:** **Hosted** on [netlify](https://romantic-bartik-d59996.netlify.com)
 
 <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-bootstrap-4/adhoc/adhoc+design+spec.png" alt="Design Spec Image">
